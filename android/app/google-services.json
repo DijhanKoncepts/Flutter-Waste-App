@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "318065796129",
+    "project_id": "flutter-waste-app-5ac61",
+    "storage_bucket": "flutter-waste-app-5ac61.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318065796129:android:842f706cd7d7cf7caeef60",
+        "android_client_info": {
+          "package_name": "com.enoch.userapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "318065796129-blbgr0aoi50ap7efc3i348in02lq913a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhZZIyi4OR7ZwtcgiMyu_uLUh-FJ8yQPU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "318065796129-blbgr0aoi50ap7efc3i348in02lq913a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
